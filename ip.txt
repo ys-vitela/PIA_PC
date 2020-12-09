@@ -1,0 +1,1 @@
+dns2.uanl.mx  148.234.7.20 uanldns.dsi.uanl.mx  148.234.15.3
